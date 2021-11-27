@@ -17,4 +17,4 @@ In this repository we will have most sites that are phising.
 
 ## Wanna add more sites?
 
-make an pullpush!
+make an pull request!
